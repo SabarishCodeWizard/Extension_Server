@@ -8,6 +8,9 @@ The Flask server is a lightweight web application that serves as the backend for
 **Overview**
 
 This Flask server provides an API for scraping product information from various e-commerce websites. It utilizes Selenium for web scraping and returns JSON responses to client requests.
+pip install flask 
+pip install selenium
+pip install flask-cors
 
 **Features**
 
