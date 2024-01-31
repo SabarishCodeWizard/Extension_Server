@@ -34,9 +34,14 @@ Flask: Web framework for building the API.
 Selenium: Web scraping library for navigating and extracting data from web pages.
 Flask-CORS: Flask extension for handling Cross-Origin Resource Sharing (CORS) headers.
 
-pip install flask 
-pip install selenium
-pip install flask-cors
+**pip install flask **
+
+
+**pip install selenium**
+
+
+**pip install flask-cors**
+
 
 
 **Project Structure**
